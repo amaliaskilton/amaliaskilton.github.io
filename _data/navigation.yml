@@ -16,7 +16,7 @@ main:
     url: /elan/
         
   #- title: "Blog Posts"
-    url: /year-archive/
+    # url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+    #url: /markdown/
