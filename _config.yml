@@ -24,9 +24,9 @@ author:
   avatar           : "amalia-skilton-headshot.jpg"
   name             : "Dr. Amalia Skilton"
   pronouns         : "(she/her)"  
-  bio              : "Chancellor's Fellow in Linguistics"
-  location         : "Edinburgh, UK"
-  employer         : "University of Edinburgh"
+  bio              : "Chancellor's Fellow"
+  location         : # "Edinburgh, UK"
+  employer         : "Linguistics & English Language, University of Edinburgh"
   uri              : # URL
   email            : "amalia.skilton@berkeley.edy" 
 
