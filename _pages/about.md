@@ -13,5 +13,5 @@ I'm a field linguist and linguistic anthropologist
 ======
 I study language use in interaction across cultures and the lifespan. My research interests include first language acquisition, pragmatics, and language documentation. All of my research is based on my own fieldwork – I have conducted over 26 months of fieldwork in the Amazon Basin with speakers of Indigenous languages, primarily Ticuna (ISO: tca; isolate).
 
-=====
-This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages
+======
+This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
